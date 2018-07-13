@@ -15,6 +15,7 @@ class NewComment extends Component {
       event.preventDefault();
     }
   }
+
   render() {
     return (
       <div className="row">
